@@ -3,7 +3,7 @@
 
 ### Education  
 **Bachelor of Science, Computer Science Major**  
-September 2017- Present  
+_**September 2017- Present**_  
 Courses taken: Object Oriented Programming, Human-Computer Interaction, Technical Communications in Computer Science, Databases Concepts and Usage
 
 ### Projects
