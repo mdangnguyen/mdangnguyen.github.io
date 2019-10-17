@@ -8,11 +8,12 @@ _September 2017- Present_
 Courses taken: Object Oriented Programming, Human-Computer Interaction, Technical Communications in Computer Science, Databases Concepts and Usage
 
 ### Projects
+---
 **Custom Discord Bot (Personal Project)**  
 _August 2019 - Present_  
 Tools Utilized: Javascript, Visual Studio Code, Node.js, Discord.js (Node.js Module)
 * Detect and censor profanity from users' messages
-*
+* Allow users to create custom commands to be used at any point
 
 ### Extracurricular Activities
 
