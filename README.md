@@ -23,7 +23,7 @@ If you aren't familiar with Markdown, please complete this [tutorial](https://ww
 2. Fill out the fields and select "Next: Select a Plan".
 3. Choose your plan. For the purpose of this project, a free plan should be sufficient.
 4. Complete the questionnaire.  
-  * You can skip by selecting "Skip this step".
+   * You can skip by selecting "Skip this step".
 5. Verify your email address to complete registration.  
 
 ### Instructions
