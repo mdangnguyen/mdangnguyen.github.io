@@ -22,7 +22,7 @@ If you aren't familiar with Markdown, please complete this [tutorial](https://ww
 1. Sign up at [GitHub](https://github.com/).
 2. Fill out the fields and select "Next: Select a Plan".
 3. Choose your plan. For the purpose of this project, a free plan should be sufficient.
-4. Complete the questionnaire.
+4. Complete the questionnaire.  
   * You can skip by selecting "Skip this step".
 5. Verify your email address to complete registration.  
 
@@ -31,16 +31,16 @@ If you aren't familiar with Markdown, please complete this [tutorial](https://ww
 #### Step 1: Writing your resume in Markdown
 1. Launch Atom.
 2. Go to File, then select "New File".
-3. Write your resume in Markdown.
+3. Write your resume in Markdown.  
   * Refer to **Prerequisites** for a tutorial on Markdown.
-4. Save your file as `index.md` once you're finished.
+4. Save your file as `index.md` once you're finished.  
   * You can preview your work using `Ctrl + Shift + M` once the file is saved as .md format.
 
 #### Step 2: Setting up your GitHub repository
 1. Go to [GitHub](https://github.com/).
 2. Sign into your account.
 3. Select "Create a repository" at the top left corner.
-4. Enter repository name as `yourusername.github.io`.
+4. Enter repository name as `yourusername.github.io`.  
  * Ie. if your name is ABC, the repository name should be `ABC.github.io`.  
 5. Check "Public" option.
 6. Select "Create repository" to finalize your creation.
