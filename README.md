@@ -60,6 +60,8 @@ You can refer to the gif below for a visual representation of this step.
 5. Pick a theme and select "Select theme".
 6. Go to `yourusername.github.io` on any web browser to see the result.
 
+![](demo.gif)
+
 ## Frequently Asked Questions (FAQ)
 
 **Q: Do I have to name my resume file as index.md?**  
