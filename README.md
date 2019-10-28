@@ -41,7 +41,7 @@ If you aren't familiar with Markdown, please complete this [tutorial](https://ww
 2. Sign into your account.
 3. Select "Create a repository" at the top left corner.
 4. Enter repository name as `yourusername.github.io`.  
-  * Ie. if your name is ABC, the repository name should be `ABC.github.io`.  
+   * Ie. if your name is ABC, the repository name should be `ABC.github.io`.  
 5. Check "Public" option.
 6. Select "Create repository" to finalize your creation.
 
