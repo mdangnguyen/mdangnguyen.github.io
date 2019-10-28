@@ -46,7 +46,8 @@ If you aren't familiar with Markdown, please complete this [tutorial](https://ww
 6. Select "Create repository" to finalize your creation.
 
 #### Step 3: Uploading your resume to GitHub
-1. On your repository page, select "uploading an existing file".
+1. On your repository page, select "uploading an existing file".  
+   * If you already have some files in your repository, select the "Upload files" button instead.
 2. Select your `index.md` file.
 3. Select "Commit Changes".
 
