@@ -4,13 +4,13 @@ This is a guide on how to host your own resume on GitHub.
 
 ## Getting Started
 
-These instructions will enable you to write, host, and format your resume in Markdown using Atom, GitHub, and GitHub themed Jekyll.
+These instructions will enable you to write, host, and format your resume in Markdown using Atom, GitHub, and GitHub themed Jekyll. This guide is meant for anyone with little to no experience in coding and is familiar with basic website interactions. However, there is a few things you need to know and set up before following this guide.
 
 ### Prerequisites
 
 #### Knowledge of Markdown
 
-If you aren't familiar with Markdown, please complete this [tutorial](https://www.markdowntutorial.com/) and get used to the language. It is very intuitive and can honestly take less than an hour to learn.
+If you aren't familiar with Markdown, please complete this [tutorial](https://www.markdowntutorial.com/) and get used to the language. It is very intuitive and can take less than an hour to learn.
 
 #### Atom Text Editor
 
@@ -61,6 +61,18 @@ You can refer to the gif below for a visual representation of this step.
 6. Go to `yourusername.github.io` on any web browser to see the result.
 
 ![](demo.gif)
+
+#### Step 5: Editing your website header
+1. Go to your repository page (`github.com/yourusername/yourusername.github.io`).
+2. Select `_config.yml`.
+3. Select the pencil icon to edit.
+4. Add the following line:  
+```
+title: Your Website Title
+```
+   * Change `Your Website Title` to your preferred title.
+5. Scroll down and select "Commit changes".
+6. Go to `yourusername.github.io` on any web browser to see the result.
 
 ## Frequently Asked Questions (FAQ)
 
