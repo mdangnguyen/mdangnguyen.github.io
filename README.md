@@ -4,7 +4,7 @@ This is a guide on how to host your own resume on GitHub.
 
 ## Getting Started
 
-These instructions will enable you to write, host, and format your resume in Markdown using Atom, GitHub, and GitHub themed Jekyll. This guide is meant for anyone with little to no experience in coding and is familiar with basic website interactions. However, there is a few things you need to know and set up before following this guide.
+These instructions will enable you to write, host, and format your resume in Markdown using Atom, GitHub, and GitHub themed Jekyll. This guide is meant for anyone with little to no experience in coding and familiar with basic website interactions. However, there is a few things you need to know and set up before following this guide.
 
 ### Prerequisites
 
