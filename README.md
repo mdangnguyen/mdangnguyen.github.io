@@ -66,11 +66,8 @@ You can refer to the gif below for a visual representation of this step.
 1. Go to your repository page (`github.com/yourusername/yourusername.github.io`).
 2. Select `_config.yml`.
 3. Select the pencil icon to edit.
-4. Add the following line:  
-    * Change `Your Website Title` to your preferred title.
-```
-title: Your Website Title
-```
+4. Add the following line: `title: Your Website Title`
+   * Change `Your Website Title` to your preferred title.
 5. Scroll down and select "Commit changes".
 6. Go to `yourusername.github.io` on any web browser to see the result.
 
@@ -84,6 +81,10 @@ A: Yes, you can use any text editor of your preference. But for the purpose of t
 
 **Q: Why can't I see my changes on the website?**  
 A: If you have correctly followed all the steps in the instructions above, then it is most likely a problem on GitHub's side. Unfortunately, there isn't much you can do besides waiting for the change to eventually come. If you have waited for a long time with no progress, I recommend deleting your repository and create a new one to see if the problem persists.
+
+## More Resources
+
+For more information on GitHub Flavored Markdown, visit [here](https://github.github.com/gfm/).
 
 ## Author
 
