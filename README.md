@@ -67,10 +67,10 @@ You can refer to the gif below for a visual representation of this step.
 2. Select `_config.yml`.
 3. Select the pencil icon to edit.
 4. Add the following line:  
+    * Change `Your Website Title` to your preferred title.
 ```
 title: Your Website Title
 ```
-   * Change `Your Website Title` to your preferred title.
 5. Scroll down and select "Commit changes".
 6. Go to `yourusername.github.io` on any web browser to see the result.
 
